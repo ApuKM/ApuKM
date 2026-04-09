@@ -1,14 +1,24 @@
 # Apu Kumar  
 Fullstack Explorer (Developer/Creator/Learner)
 
-I’m a self-driven full-stack developer crafting modern web applications with clean code and creative ideas. From designing sleek user interfaces to building powerful backends, I love turning concepts into interactive digital experiences. Every project is a new adventure to learn, experiment, and create something meaningful.
+JavaScript, React, Tailwind CSS, Next.js, TypeScript, Node.js, Express.js, MongoDB, Prisma, Zod, Redux, Zustand, Shadcn/UI, DaisyUI.
+I’m a self-driven full-stack developer crafting modern websites and web applications with clean code and creative solutions.
 
-🔭 I’m currently working on Advanced_auth, BooK vibe PROJECTS
-🌱 I’m currently learning Nextjs, Typescript, Prisma
-💬 Ask me about React, Javascript
-👨‍💻 All of my projects are available at https://personal-portfolio-tan-pi.vercel.app/
-📄 Know about my experiences https://drive.google.com/file/d/1YPRFGqTixXl3mAiV0R6U8ElkF6xGu9Ut/view?usp=sharing
-📫 How to reach me apukumar180@gmail.com
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=apukm&label=Profile%20views&color=0e75b6&style=flat" alt="apukm" /> </p>
+
+Talking About Personal Stuff:
+- 🔭 I’m currently working on [Advanced_auth, BooK vibe](https://github.com/ApuKM/Advance-Authentication-Auth, https://github.com/ApuKM/Book-Vibe)
+
+- 🌱 I’m currently learning **Nextjs, Typescript, Prisma**
+
+- 👨‍💻 All of my projects are available at [https://personal-portfolio-tan-pi.vercel.app/](https://personal-portfolio-tan-pi.vercel.app/)
+
+- 💬 Ask me about **React, Javascript**
+
+- 📫 How to reach me **apukumar180@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YPRFGqTixXl3mAiV0R6U8ElkF6xGu9Ut/view?usp=sharing](https://drive.google.com/file/d/1YPRFGqTixXl3mAiV0R6U8ElkF6xGu9Ut/view?usp=sharing)
 
 ---
 
