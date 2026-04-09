@@ -1,5 +1,5 @@
 # Apu Kumar  
-Fullstack Explorer (Developer/Creator/Learner)
+### Fullstack Explorer (Developer/Creator/Learner)
 
 JavaScript, React, Tailwind CSS, Next.js, TypeScript, Node.js, Express.js, MongoDB, Prisma, Zod, Redux, Zustand, Shadcn/UI, DaisyUI.
 I’m a self-driven full-stack developer crafting modern websites and web applications with clean code and creative solutions.
@@ -7,17 +7,12 @@ I’m a self-driven full-stack developer crafting modern websites and web applic
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apukm&label=Profile%20views&color=0e75b6&style=flat" alt="apukm" /> </p>
 
-Talking About Personal Stuff:
+## Talking About Personal Stuffs:
 - 🔭 I’m currently working on [Advanced_auth, BooK vibe](https://github.com/ApuKM/Advance-Authentication-Auth, https://github.com/ApuKM/Book-Vibe)
-
 - 🌱 I’m currently learning **Nextjs, Typescript, Prisma**
-
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-tan-pi.vercel.app/](https://personal-portfolio-tan-pi.vercel.app/)
-
 - 💬 Ask me about **React, Javascript**
-
 - 📫 How to reach me **apukumar180@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YPRFGqTixXl3mAiV0R6U8ElkF6xGu9Ut/view?usp=sharing](https://drive.google.com/file/d/1YPRFGqTixXl3mAiV0R6U8ElkF6xGu9Ut/view?usp=sharing)
 
 ---
@@ -36,8 +31,10 @@ Talking About Personal Stuff:
 ---
 
 ## 🎬 Projects
-- 🎥 **Movie App** — React-based movie explorer. (Repo: `https://github.com/ApuKM/movie-app`)
-- 📊 **Next.js Dashboard** — Dashboard built with Next.js. (Repo: `https://github.com/ApuKM/nextjs-dashboard`)
+- 🎥 **Movie App** — React-based movie explorer. (Repo: [`movie-app`](https://github.com/ApuKM/movie-app))
+- 📊 **Next.js Dashboard** — Dashboard built with Next.js. (Repo: [`nextjs-dashboard`](https://github.com/ApuKM/nextjs-dashboard))
+- 🛒 **E-Commerce UI** — Next.js e-commerce frontend using TypeScript, Zustand, and Zod. (Repo: [`e-commerce-ui`](https://github.com/ApuKM/e-commerce-ui))
+- 📚 **Book Vibe** — React app for book lovers built with Tailwind CSS and Context API. (Repo: [`Book-Vibe`](https://github.com/ApuKM/Book-Vibe))
 
 
 ---
