@@ -3,6 +3,13 @@ Fullstack Explorer (Developer/Creator/Learner)
 
 I’m a self-driven full-stack developer crafting modern web applications with clean code and creative ideas. From designing sleek user interfaces to building powerful backends, I love turning concepts into interactive digital experiences. Every project is a new adventure to learn, experiment, and create something meaningful.
 
+🔭 I’m currently working on Advanced_auth, BooK vibe PROJECTS
+🌱 I’m currently learning Nextjs, Typescript, Prisma
+💬 Ask me about React, Javascript
+👨‍💻 All of my projects are available at https://personal-portfolio-tan-pi.vercel.app/
+📄 Know about my experiences https://drive.google.com/file/d/1YPRFGqTixXl3mAiV0R6U8ElkF6xGu9Ut/view?usp=sharing
+📫 How to reach me apukumar180@gmail.com
+
 ---
 
 ## 🚀 Tech Stack
