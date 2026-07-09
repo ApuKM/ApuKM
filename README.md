@@ -1,8 +1,6 @@
-# Apu Kumar  
-### Fullstack Explorer (Developer/Creator/Learner)
-
-JavaScript, React, Tailwind CSS, Next.js, TypeScript, Node.js, Express.js, MongoDB, Prisma, Zod, Redux, Zustand, Shadcn/UI, DaisyUI.
-I’m a self-driven full-stack developer crafting modern websites and web applications with clean code and creative solutions.
+<div align="center">
+<img src="./Github-Social-Preview (1).png" alt="Apu Kumar - Full Stack Developer Banner" width="100%" />
+</div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apukm&label=Profile%20views&color=0e75b6&style=flat" alt="apukm" /> </p>
