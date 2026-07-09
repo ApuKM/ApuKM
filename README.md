@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./Github-Social-Preview (1).png" alt="Apu Kumar - Full Stack Developer Banner" width="100%" />
+<img src="./Github-Social-Preview (2).png" alt="Apu Kumar - Full Stack Developer Banner" width="100%" />
 </div>
 
 
