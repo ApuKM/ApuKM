@@ -14,8 +14,8 @@ I am an enthusiastic **Full Stack Developer** passionate about building modern, 
 ---
 
 ## 📌 Current Activities
-* 🔭 **Working on:** [BKroy](https://github.com/ApuKM/bKROY) & [Advanced Authentication](https://github.com/ApuKM/Advance-Authentication-Auth)
-* 🌱 **Currently Learning:** Generative AI & Prisma ORM
+* 🔭 **Working on:** [e-commerce-fullstack-monorepo](https://github.com/ApuKM/e-commerce_monorepo_fullstack) & Problem solving on Leetcode.
+* 🌱 **Currently Learning:** Generative AI & Problem Solving
 * 👨‍💻 **Portfolio:** Explore my projects at [personal-portfolio-tan-pi.vercel.app](https://personal-portfolio-tan-pi.vercel.app/)
 * 💬 **Ask me about:** React, Next.js, JavaScript, & Web Development
 * 📫 **Reach me at:** [apukumar180@gmail.com](mailto:apukumar180@gmail.com)
@@ -37,6 +37,14 @@ I am an enthusiastic **Full Stack Developer** passionate about building modern, 
 ---
 
 ## 🎬 Featured Projects
+
+### 🤖 ResuMate AI
+> An AI-powered career and resume platform developed collaboratively with a team to help candidates create, improve, and evaluate their resumes while preparing for job interviews.
+* **Tech Stack:** `Next.js` • `TypeScript` • `Prisma` • `PostgreSQL` • `Better Auth` • `Google Gemini AI`
+* **Key Features:** AI-powered resume builder and enhancement, ATS score analysis, AI career chatbot, mock interview system with AI-generated feedback, Stripe payment integration, candidate dashboard, secure authentication, and resume document processing.
+* **Links:** [📂 Code Repository] | [🌐 Live Production Demo](https://resu-mate-ai-client.vercel.app)
+
+---
 
 ### 🛒 E-Commerce UI 
 > A modern, high-performance e-commerce frontend optimized for fluid client-side interaction and responsive storefront layouts.
