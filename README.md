@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Github-Social-Preview (2).png" alt="Apu Kumar - Full Stack Developer Banner" width="100%" />
+  <img src="./Github-Social-Preview (4).png" alt="Apu Kumar - Full Stack Developer Banner" width="100%" />
 
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=apukm&label=Profile%20views&color=0e75b6&style=flat" alt="apukm" />
